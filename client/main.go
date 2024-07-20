@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	pb "github.com/dimaaash/envoy-example"
+	pb "github.com/dimaaash/envoy-example/helloworld"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 )
